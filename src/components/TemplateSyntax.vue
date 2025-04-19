@@ -1,5 +1,5 @@
 <template>
-    <h3>模板语法</h3>
+    <h3>Template Syntax</h3>
     <p>{{ msg }}</p>
     <p>{{ number + 1 }}</p>
     <p>{{ ok ? 'Yes' : 'No' }}</p>
