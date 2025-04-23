@@ -9,6 +9,7 @@ import EventHandle3 from './components/EventHandle3.vue';
 import EventHandle4 from './components/EventHandle4.vue';
 import EventHandle5 from './components/EventHandle5.vue';
 import EventModifiers from './components/EventModifiers.vue';
+import ArrayList from './components/ArrayList.vue';
 </script>
 
 <template>
@@ -21,7 +22,8 @@ import EventModifiers from './components/EventModifiers.vue';
     <!-- <EventHandle3/> -->
     <!-- <EventHandle4/> -->
     <!-- <EventHandle5/> -->
-    <EventModifiers/>
+    <!-- <EventModifiers/> -->
+    <ArrayList/>
 </template>
 
 
