@@ -8,6 +8,7 @@ import EventHandle2 from './components/EventHandle2.vue';
 import EventHandle3 from './components/EventHandle3.vue';
 import EventHandle4 from './components/EventHandle4.vue';
 import EventHandle5 from './components/EventHandle5.vue';
+import EventModifiers from './components/EventModifiers.vue';
 </script>
 
 <template>
@@ -19,7 +20,8 @@ import EventHandle5 from './components/EventHandle5.vue';
     <!-- <EventHandle2/> -->
     <!-- <EventHandle3/> -->
     <!-- <EventHandle4/> -->
-    <EventHandle5/>
+    <!-- <EventHandle5/> -->
+    <EventModifiers/>
 </template>
 
 
