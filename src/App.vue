@@ -12,6 +12,7 @@ import EventModifiers from './components/EventModifiers.vue';
 import ArrayList from './components/ArrayList.vue';
 import ComputedDemo from './components/ComputedDemo.vue';
 import ClassDemo from './components/ClassDemo.vue';
+import StyleDemo from './components/StyleDemo.vue';
 </script>
 
 <template>
@@ -27,7 +28,8 @@ import ClassDemo from './components/ClassDemo.vue';
     <!-- <EventModifiers/> -->
     <!-- <ArrayList/> -->
     <!-- <ComputedDemo/> -->
-    <ClassDemo/>
+    <!-- <ClassDemo/> -->
+    <StyleDemo/>
 </template>
 
 
