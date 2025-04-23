@@ -11,6 +11,7 @@ import EventHandle5 from './components/EventHandle5.vue';
 import EventModifiers from './components/EventModifiers.vue';
 import ArrayList from './components/ArrayList.vue';
 import ComputedDemo from './components/ComputedDemo.vue';
+import ClassDemo from './components/ClassDemo.vue';
 </script>
 
 <template>
@@ -25,7 +26,8 @@ import ComputedDemo from './components/ComputedDemo.vue';
     <!-- <EventHandle5/> -->
     <!-- <EventModifiers/> -->
     <!-- <ArrayList/> -->
-    <ComputedDemo/>
+    <!-- <ComputedDemo/> -->
+    <ClassDemo/>
 </template>
 
 
